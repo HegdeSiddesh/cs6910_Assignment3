@@ -12,6 +12,8 @@ The function **accuracy** takes in required parameters such as val_encoder_input
 
 The function **decoded_sentence** is used to transliterate a word in the source language into the target language.
 
+**Reference**:- https://keras.io/examples/nlp/lstm_seq2seq/
+
 # ASG3_Q2_sweep_final.ipynb
 This python notebook contains code to configure and run wandb sweeps.
 
