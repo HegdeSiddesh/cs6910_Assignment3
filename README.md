@@ -36,6 +36,8 @@ It also configures the best attention model from sweep and computes test accurac
 
 It viualises connectivity (i.e) when the model is decoding the i-th character in the output which is the input character that it is looking at ?
 
+**Reference** : https://github.com/thushv89/attention_keras/blob/master/src/layers/attention.py
+
 # Song_generation_using_GPT2.ipynb
 
 This python notebook finetunes a GPT2 model to generate lyrics for English songs.
