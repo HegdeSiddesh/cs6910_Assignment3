@@ -24,7 +24,7 @@ Trains the model.
 
 Makes predictions on test data and computes the test accuracy.
 
-# plotPredictions.py
+# plot_predictions.py
 This python script generates a html page with a table of test set predictions. On running the script, it generates a file called prediction_grid.html.
 
 # Attention_final.ipynb
