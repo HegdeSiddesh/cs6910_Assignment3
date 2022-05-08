@@ -1,5 +1,7 @@
 # CS6910 Assignment 3
 
+Wandb report link: [Link](https://wandb.ai/hithesh-sidhesh/CS6910-Assignment_3-sweep-Tamil/reports/Deep-Learning-Assignment-3--VmlldzoxOTU0MTIx)
+
 # ASG3_Q1.ipynb
 
 This python notebook helps in building an RNN based seq2seq model which supports lstm, gru and rnn cells. 
